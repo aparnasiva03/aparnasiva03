@@ -6,6 +6,7 @@
 
 How to reach me - aparna4siva@gmail.com
 
+**Tech Stacks**
 - Languages: C++, Python
 - Frontend: React.js, Next.js, HTML, CSS, Tailwind CSS
 - Backend: Node.js, Express.js, Fastify
