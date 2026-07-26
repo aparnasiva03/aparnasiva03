@@ -4,7 +4,7 @@
 - 💻 Full Stack Developer
 - 🚀 Passionate about building scalable web applications and solving real-world problems
 
-Tech Stack
+How to reach me - aparna4siva@gmail.com
 
 ### Languages
 - C++
