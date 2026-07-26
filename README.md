@@ -1,8 +1,8 @@
 ## Hi there, I'm Aparna Siva 👋
-🎓 Final Year B.Tech Computer Science Student
-🏫 Amrita School of Computing, Coimbatore
-💻 Full Stack Developer
-🚀 Passionate about building scalable web applications and solving real-world problems
+- 🎓 Final Year B.Tech Computer Science Student
+- 🏫 Amrita School of Computing, Coimbatore
+- 💻 Full Stack Developer
+- 🚀 Passionate about building scalable web applications and solving real-world problems
 
 Tech Stack
 
