@@ -6,24 +6,8 @@
 
 How to reach me - aparna4siva@gmail.com
 
-### Languages
-- C++
-- Python
-
-### Frontend
-- React.js
-- Next.js
-- HTML
-- CSS
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express.js
-- Fastify
-
-### Database
-- MySQL
-- MongoDB
-- DynamoDB
+Languages: C++, Python
+Frontend: React.js, Next.js, HTML, CSS, Tailwind CSS
+Backend: Node.js, Express.js, Fastify
+Database: MySQL, MongoDB, DynamoDB
 
